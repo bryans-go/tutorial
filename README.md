@@ -1,3 +1,3 @@
 # tutorial
-```go
+```go is best
 ```
